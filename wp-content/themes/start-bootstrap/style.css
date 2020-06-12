@@ -1,0 +1,26 @@
+/*
+Theme Name: Start Bootstrap
+Author: Start Bootstrap
+Author URI: https://wordpress.org/
+Description: Clean Blog wordpress template.
+Requires at least: 4.7
+Requires PHP: 5.2.4
+License: MIT
+Tags: css, sass, html, responsive, theme, template
+*/
+
+figcaption {
+    font-size: 14px;
+    font-style: italic;
+    display: block;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: #6c757d!important;
+}
+
+.wp-block-image figcaption {
+    margin-top: 0 !important;
+}
